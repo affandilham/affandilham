@@ -3,7 +3,7 @@
 ## Education:
  #### 1. [SMK MA'ARIF 1 NANGGULAN](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
    - Pelajar
- #### 2. [Gamelab.Id]
+ #### 2. [Gamelab.Id] (https://www.gamelab.id/)
    - Kelas Industri Art Ilustrator
    
 ## Experience:
