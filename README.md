@@ -3,7 +3,7 @@
 ## Education:
  #### 1. [SMK MA'ARIF 1 NANGGULAN](https://stemana.sch.id/) | Teknik Komputer & Jaringan | Yogyakarta, `2020-2023`
    - Student
- #### 2. [Gamelab.Id](https://www.gamelab.id/) • `Ags'2021-Jul'2022`
+ #### 2. [Gamelab.Id](https://www.gamelab.id/) | `Ags'2021-Jul'2022`
    - Industrial grade graphic design
   
 ## Experience:
