@@ -1,13 +1,13 @@
 # Hi there, I'm Ilham 👋
 
 ## Education:
- #### 1. [SMK MA'ARIF 1 NANGGULAN](https://stemana.sch.id/) • `Teknik Komputer & Jaringan` • `Yogyakarta, 2020 - 2023`
+ #### 1. [SMK MA'ARIF 1 NANGGULAN](https://stemana.sch.id/) • Teknik Komputer & Jaringan • Yogyakarta, `2020 - 2023`
    - Student
- #### 2. [Gamelab.Id](https://www.gamelab.id/)
-   - Industrial grade • `Graphic design` • `Ags'2021 - Jul'2022`
-   
+ #### 2. [Gamelab.Id](https://www.gamelab.id/) • `Ags'2021 - Jul'2022`
+   - Industrial grade graphic design
+  
 ## Experience:
- #### 1. [PT. Educa Sisfomedia Indonesia](https://www.educastudio.com/) • `Digital Artwork` • `Salatiga, Jul' - Dec'2022`
+ #### 1. [PT. Educa Sisfomedia Indonesia](https://www.educastudio.com/) • `Digital Artwork` • Salatiga, `Jul' - Dec'2022`
    - Internship to make 2D-Art picture story books for children using CorelDraw software
 ---
 
