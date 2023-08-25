@@ -1,6 +1,6 @@
 # Hi there, I'm Ilham 👋
 #### About Me:
-Hello, my name is Muhammad Ilham Nur Affandi, usually called Ilham. I live in Yogyakarta, Indonesia. I am the first son of two brothers.
+Hello, my name is Muhammad Ilham Nur Affandi, usually called Ilham. I live in Yogyakarta, Indonesia.
 
 ## Education:
  #### `1.` [SMK MA'ARIF 1 NANGGULAN](https://stemana.sch.id/) | Teknik Komputer & Jaringan | Yogyakarta, `2020-2023`
